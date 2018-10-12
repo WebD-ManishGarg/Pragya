@@ -1,0 +1,27 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.small{
+  height:6rem;
+
+}
+button{
+  position: absolute;
+  top: 70%;
+  left: -28%;
+   margin-left: 400px;
+   margin-top: 20px;
+}
+h1{
+  font-size:70px;
+  background-color: purple;
+  padding:10px;
+
+      color:white;
+      font-weight: 700;
+
+}
